@@ -1,6 +1,10 @@
-<?php
+<html>
+<head><title>HELLO world</title></head>
+<body>
+<form method="post">
 
+</form>
+</body>
 
-
-echo 'first day'.date('Y-m-d H:i:s');
+</html>
 
