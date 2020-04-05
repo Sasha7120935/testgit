@@ -1,3 +1,6 @@
 <?php
-echo 'hello world'.date('Y-m-d H:i:s');
+
+
+
+echo 'first day'.date('Y-m-d H:i:s');
 
